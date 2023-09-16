@@ -1,0 +1,21 @@
+{
+  "name": "medibot-e2e-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@alfonso-presa/soft-assert": "^0.6.0",
+    "@playwright/test": "^1.37.1",
+    "@types/jest": "^29.5.4",
+    "axios": "^1.5.0",
+    "csv-parse": "^5.5.0",
+    "pollinator": "^0.3.2",
+    "mssql": "^10.0.1",
+    "telnyx": "^1.25.5"
+  }
+}
